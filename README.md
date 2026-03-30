@@ -17,3 +17,6 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
+```
+
+Large data files, virtual environments, and training outputs are excluded from git.
