@@ -1,6 +1,6 @@
 # Advanced Deep Learning in Physics and Engineering
 
-Course repository for assignments and experiments.
+Course repository for assignment code notebooks and scripts
 
 ## Structure
 
