@@ -13,6 +13,8 @@ from matplotlib import pyplot as plt
 import jammy_flows
 from scipy.stats import norm
 
+from helper import get_normalized_data
+
 
 
 DATA_PATH = ""
