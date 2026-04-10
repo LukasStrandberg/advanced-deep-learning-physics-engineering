@@ -4,7 +4,7 @@ Course repository for assignment code notebooks and scripts
 
 ## Structure
 
-- `notebooks/` — assignment notebooks
+- `assigments/` — assignment notebooks and scripts
 - `scripts/` — helper scripts
 - `data/` — local dataset files (not tracked)
 - `runs/` — local outputs, logs, checkpoints (not tracked)
